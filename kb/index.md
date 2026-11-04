@@ -21,7 +21,7 @@ Root: /workspace/spacexai-engineer/
 | data/handles_general.txt | 19 accounts for general AI/design posts (Cursor, X, SpaceXAI leads), from the 2026-11-04 snapshot. | Daily general scan. |
 | kb/general.md | General AI / design posts table (date, handle, summary, link). | Non-Grok-Bot AI/design news. |
 | bot/instructions.md, bot/routines.md | Generic instructions and the two routine prompts. | Install and every chat. |
-| skills/<name>/SKILL.md | Job skills and the offline kb bootstrap skills. | When that job runs. |
+| skills/<name>/SKILL.md | Job skills. kb-bootstrap pulls the whole bot from the public repo. | When that job runs. |
 
 Who to ask about what (short):
 - multi-bot: Eric Zakariasson, Lingxi Li, Lauren Tan, Kiara Polychroniadi

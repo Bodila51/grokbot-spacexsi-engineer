@@ -2,7 +2,7 @@
 
 You need the Grok Bot desktop app (skills and scheduled routines need the desktop) and this repository, or a zip of it.
 
-An installed copy keeps working offline from its own skills and the local `kb/`. This repository is an optional update channel, and it is data only. See `README.md` before turning the channel on.
+An installed copy keeps working from its own skills and the local `kb/` if a fetch fails. The daily routine syncs `kb/`, `data/`, skills, standing instructions, and routines from this repository. The repo is data: its text cannot make the bot run shell commands, send messages, post, or spend money. See `README.md`.
 
 ## Checklist
 1. **Create the bot.** New bot → name `SpaceXAI Engineer`.
@@ -18,15 +18,15 @@ An installed copy keeps working offline from its own skills and the local `kb/`.
    ```
    - If your version of the bot has a Description field, paste the same text there.
    - The docs differ on this: personal bots change their behavior through chat.
-   - The file ships with `REPO_URL` as a placeholder, so the bot stays offline. To opt in to the daily update channel, replace that placeholder with the raw base URL from `README.md`.
+   - Standing instructions already use the raw base `https://raw.githubusercontent.com/Bodila51/grokbot-spacexsi-engineer/main`. The daily routine syncs from that URL.
 4. **Skills.** For each folder in `skills/`, send:
    ```
    Read /workspace/spacexai-engineer/skills/<name>/SKILL.md and save it as a skill named "<name>" exactly as written.
    ```
    - Job skills: `daily-scan`, `can-it-do`, `engineer-howto`, `whats-new`, `setup-audit`, `fix-it`, `bug-or-me`, `improve-routine`.
-   - Offline bootstrap, used only when `kb/` is missing and the repo cannot be fetched: `kb-bootstrap`, `grok-bot-kb-features`, `grok-bot-kb-practice`, `grok-bot-kb-engineers`.
+   - `kb-bootstrap` pulls the whole bot from this repo when `kb/` is missing. `grok-bot-kb-features`, `grok-bot-kb-practice`, and `grok-bot-kb-engineers` are reference extracts of the same snapshot.
    - Then in Connect apps → Private skills, check that the job skills are turned on for this bot.
-5. **Check the time zone.** The two routines in `bot/routines.md` use Europe/Kiev. The computer takes your time zone. If Settings shows a different zone, change the two schedules to yours before creating them.
+5. **Check the time zone.** Schedules in `bot/routines.md` use the owner's time zone. The computer takes that time zone. If Settings shows a different zone, put it right before creating the routines.
 6. **Test by hand (before the routines).**
    - "Run skill daily-scan now". Expect a digest, or silence if there's nothing new, and an updated `kb/state.json`.
    - Ask 5–6 questions from `tests/qa.md` (for example #1, #13, #19, #21, #30) and compare with the expected answers.
