@@ -1,0 +1,557 @@
+{
+ "note": "grokbot_posts_sample = posts matching grok bot/@bot in the newest 45-result page only (~Oct 27-Nov 4 2026), NOT full count since Aug 11",
+ "people": [
+  {
+   "name": "Lauren Tan",
+   "handle": "@poteto",
+   "status": "verified",
+   "evidence": "bio: grok @bot at @SpaceXSI. react compiler core team, prev cursor, meta, netflix",
+   "followers": 265933,
+   "grokbot_posts_sample": 8
+  },
+  {
+   "name": "Lingxi Li",
+   "handle": "@lingxi",
+   "status": "verified",
+   "evidence": "bio: engineering at @spacexsi shaping @bot w/ good taste + first principle",
+   "followers": 17451,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Matt Palmer",
+   "handle": "@mattyp",
+   "status": "verified",
+   "evidence": "bio: cursor & @bot at @spacexsi",
+   "followers": 124180,
+   "grokbot_posts_sample": 5
+  },
+  {
+   "name": "Eric Zakariasson",
+   "handle": "@ericzakariasson",
+   "status": "verified",
+   "evidence": "bio: tinkering @spacexsi, prev @cursor_ai",
+   "followers": 98950,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Peng Zheng",
+   "handle": "@pengzheng_",
+   "status": "verified",
+   "evidence": "bio: design @bot @spacexsi. prev @cursor_ai @Zoom @ideo",
+   "followers": 15413,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Shub Gaur",
+   "handle": "@shubgaur",
+   "status": "verified",
+   "evidence": "bio: what is the point if not delight  @bot whisperer @spacexsi // @cursor_ai",
+   "followers": 6611,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "John Bai",
+   "handle": "@johnbai",
+   "status": "verified",
+   "evidence": "bio: Designing Grok @Bot and @SpaceXSI in NYC.",
+   "followers": 20911,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Roman Ugarte",
+   "handle": "@romanugarte_",
+   "status": "verified",
+   "evidence": "bio: Building @Bot at @SpaceXAI, prev: @cursor_ai @harvard",
+   "followers": 11492,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Lee Robinson",
+   "handle": "@leerob",
+   "status": "verified",
+   "evidence": "bio: Superintelligence at SpaceX. Previously Cursor and Vercel/Next.js. Helping build and teach the future.",
+   "followers": 304030,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "n2parko (Kevin Niparko?)",
+   "handle": "@n2parko",
+   "status": "verified",
+   "evidence": "bio: trying to measure the things that can’t be measured   product @spacexsi co-founder @cdr_fyi writing https://t.co/TuXAvAp",
+   "followers": 6824,
+   "grokbot_posts_sample": 1
+  },
+  {
+   "name": "Maxime Prades",
+   "handle": "@prades_maxime",
+   "status": "verified",
+   "evidence": "bio: Leading Product @SpaceXAI (from @cursor_ai), previously Product @meta, @algolia & @zendesk, 🇫🇷 in CA",
+   "followers": 4375,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Krista Letz",
+   "handle": "@kristaletz",
+   "status": "verified",
+   "evidence": "bio: @spacexsi ⌨️ (prev @cursor_ai)",
+   "followers": 16455,
+   "grokbot_posts_sample": 4
+  },
+  {
+   "name": "Benji Taylor",
+   "handle": "@benjitaylor",
+   "status": "verified",
+   "evidence": "bio: head of design @x & @spacexsi",
+   "followers": 231792,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Josh Kim",
+   "handle": "@joshkim",
+   "status": "verified",
+   "evidence": "bio: growing @bot at @spacexsi, prev @cursor_ai @notionhq",
+   "followers": 11264,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Baltazar Zuniga Ruiz",
+   "handle": "@baltaaazr",
+   "status": "verified",
+   "evidence": "bio: building @bot @spacexai + @withvoxelize",
+   "followers": 9917,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "ian",
+   "handle": "@shaoruu",
+   "status": "verified",
+   "evidence": "bio: building @bot @spacexsi, prev @cursor_ai occasionally @withvoxelize",
+   "followers": 32006,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Roshan Sadanani",
+   "handle": "@roshan_s",
+   "status": "verified",
+   "evidence": "bio: Love gadgets, games, great books. Building @spacexai. Before: @cursor_ai (acq) @Stripe, @Index (acq), @IBM, @DukeU.",
+   "followers": 10973,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Kiara Polychroniadi",
+   "handle": "@kiaraplds",
+   "status": "verified",
+   "evidence": "bio: 👩🏼‍💻 Field Engineer @Spacexsi Building @Cursor_ai @bot @grok",
+   "followers": 6794,
+   "grokbot_posts_sample": 7
+  },
+  {
+   "name": "Sunita Rao",
+   "handle": "@sunrao",
+   "status": "verified",
+   "evidence": "bio: community @spacexai from @cursor_ai | Former @a16z @unfoundation",
+   "followers": 4773,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "@egavrilenko11",
+   "handle": "@egavrilenko11",
+   "status": "verified",
+   "evidence": "bio: building @spacexai | prev @cursor_ai | former founder",
+   "followers": 2717,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Nick Miller",
+   "handle": "@nickwm",
+   "status": "verified",
+   "evidence": "bio: building @spacexsi, prev founding field eng @cursor_ai",
+   "followers": 4733,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Ben Lang",
+   "handle": "@benln",
+   "status": "verified",
+   "evidence": "bio: Building SpaceXAI, via Cursor team",
+   "followers": 124025,
+   "grokbot_posts_sample": 7
+  },
+  {
+   "name": "Michael Truell",
+   "handle": "@mntruell",
+   "status": "verified",
+   "evidence": "bio: Building @SpaceXSI",
+   "followers": 234144,
+   "grokbot_posts_sample": 2
+  },
+  {
+   "name": "Aman Sanger",
+   "handle": "@amanrsanger",
+   "status": "verified",
+   "evidence": "bio: Building @SpaceXAI | @cursor_ai founder",
+   "followers": 57767,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "David Pan",
+   "handle": "@davep",
+   "status": "verified",
+   "evidence": "bio: Field CTO @SpaceXSI",
+   "followers": 5571,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Dean Rie",
+   "handle": "@dean_rie",
+   "status": "verified",
+   "evidence": "bio: @SpaceXSI  ×  @cursor_ai",
+   "followers": 1897,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "David Gomes",
+   "handle": "@davidgomes",
+   "status": "verified",
+   "evidence": "bio: Building @spacexsi (previously @cursor_ai, @neondatabase and @singlestoredb)",
+   "followers": 6515,
+   "grokbot_posts_sample": 2
+  },
+  {
+   "name": "Federico Cassano",
+   "handle": "@ellev3n11",
+   "status": "verified",
+   "evidence": "bio: understanding the universe @spacexsi - trained composer @cursor_ai",
+   "followers": 8704,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Yagiz Nizipli",
+   "handle": "@yagiznizipli",
+   "status": "verified",
+   "evidence": "bio: leading @X web at @spacexsi",
+   "followers": 25335,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Nikita Bier",
+   "handle": "@nikitabier",
+   "status": "verified (ex-X)",
+   "evidence": "bio: unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+   "followers": 1355631,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Sebastian Aarnio",
+   "handle": "@aarniodev",
+   "status": "verified",
+   "evidence": "bio: building @SpaceXSI",
+   "followers": 428,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Shawn Thapa",
+   "handle": "@thapa_shawn",
+   "status": "verified",
+   "evidence": "bio: understanding the universe @xAI | ex-@Tesla_AI, @Amazon",
+   "followers": 89,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Vineeth Sendilraj",
+   "handle": "@VineethSendil",
+   "status": "verified",
+   "evidence": "bio: RL @spacexsi. Instagram: @vinnysauce (15k+). on-leave @georgiatech",
+   "followers": 3410,
+   "grokbot_posts_sample": 1
+  },
+  {
+   "name": "Grok Bot (official)",
+   "handle": "@bot",
+   "status": "verified",
+   "evidence": "bio: AI teammates that you can give real work to.",
+   "followers": 503511,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Cursor (official)",
+   "handle": "@cursor_ai",
+   "status": "verified",
+   "evidence": "bio: Coding agent for building ambitious software",
+   "followers": 497089,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Pranav Karthik",
+   "handle": "@pranavkarthik__",
+   "status": "verified",
+   "evidence": "linked from pranavkarthik.com + bio: engineering @SpaceXSI",
+   "followers": 1546,
+   "grokbot_posts_sample": 2
+  },
+  {
+   "name": "Anish Athalye",
+   "handle": "@anishathalye",
+   "status": "verified",
+   "evidence": "GitHub twitter_username + bio: ml @spacexsi • prev phd @mit_csail • research at https://t.co/MdknnUDwMy • blog at https://t.co/oGOMQygZFx • open-source",
+   "followers": 4581,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Benson Liu",
+   "handle": "@bliutech",
+   "status": "verified",
+   "evidence": "GitHub twitter_username + bio: security software engineer @spacexsi (via @cursor_ai)",
+   "followers": 586,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Stuart Sul",
+   "handle": "@stuart_sul",
+   "status": "verified",
+   "evidence": "linked from stuartsul.com + bio: training grok @SpaceXAI, cs phd @Stanford, @HazyResearch",
+   "followers": 4135,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Siraj Chokshi",
+   "handle": "@SirajChokshi",
+   "status": "verified",
+   "evidence": "linked from sirajchokshi.com + bio: Likes manchego cheese. Building @cursor_ai",
+   "followers": 321,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Dylan Gattey",
+   "handle": "@dyl_gat",
+   "status": "verified",
+   "evidence": "GitHub twitter_username + bio: Eng @Cursor_AI at @SpaceXSI. Be an optimist, trust in yourself, add a splash of color! Let's make it happen 🚀",
+   "followers": 170,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Tido Carriero",
+   "handle": "@tidocarriero",
+   "status": "verified",
+   "evidence": "bio: building at @SpaceXAI alum: @cursor_ai, @segment, @dropbox, @facebook",
+   "followers": 1556,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Sualeh Asif",
+   "handle": "@sualehasif996",
+   "status": "verified",
+   "evidence": "bio: Building @SpaceXAI | @cursor_ai founder",
+   "followers": 20337,
+   "grokbot_posts_sample": 0
+  },
+  {
+   "name": "Jenna Nanpei",
+   "handle": "@jennananpei",
+   "status": "verified",
+   "evidence": "bio: sports marketer. building in ai.  📍field growth @spacexai via @cursor_ai  prev @caa_sports @jumpman23",
+   "followers": 358,
+   "grokbot_posts_sample": 2
+  },
+  {
+   "name": "Dan Perks (GitHub says @danperks_, account not found on X)",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Andrew Milich",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Jason Ginsberg",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Alex Zakoor",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Bartek Pacia",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Cade Phillips",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Erik Nilsson",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Arthur Viegers",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Adam Tanguay",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Daniel Gartshein",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Tommy Hansen",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Jon Grigull",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Daniel Brill",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Manuel Muñoz Solera",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Xi Yan",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Ethan Ng",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Erika Cabrera",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Emma Weyrauch",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Chris Everett",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Caro Scalercio",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Stefan Markarian",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Natasha Kuo",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Anoop Baliga",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Miguel Cruz",
+   "handle": null,
+   "status": "not_found",
+   "evidence": "guessed handles either missing or bio unrelated",
+   "followers": null,
+   "grokbot_posts_sample": null
+  },
+  {
+   "name": "Elon Musk",
+   "handle": "@elonmusk",
+   "status": "verified",
+   "evidence": "read only posts about Grok Bot (high volume account, filter strictly)",
+   "followers": null,
+   "grokbot_posts_sample": null
+  }
+ ]
+}
